@@ -81,7 +81,7 @@ const employees = [
 ];
 
 function getPerformance(score) {
-    if (score >= 80) {
+    if (score >= 80 && score <= 100) {
         return "Excellent";
     } else if (score >= 60) {
         return "Good";
