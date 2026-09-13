@@ -29,6 +29,7 @@ function checkScore(score) {
 
 console.log(checkScore(75));
 console.log(checkScore(40));
+console.log(checkScore(60));
 
 
 console.log("Practical Exercise 3: Employee Object");
