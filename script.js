@@ -76,7 +76,8 @@ const employees = [
     { name: "Kofi", score: 72 },
     { name: "Ama", score: 91 },
     { name: "Yaw", score: 58 },
-    { name: "Abena", score: 45 }
+    { name: "Abena", score: 45 },
+    { name: "Kojo", score: 63 }
 ];
 
 function getPerformance(score) {
